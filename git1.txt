@@ -1,3 +1,5 @@
-Este es mi primer repositorio en GIT
+Este es mi 1er repositorio en GIT.
 
-Este es el primer cambio que estoy haciendo al archivo 
+Este es el primer cambio que estoy haciendo al archivo.
+
+Este es el segundo cambio x)
