@@ -12,3 +12,9 @@ li{
     color: blue;
     text-align: left;
 }
+
+p{
+    color: red;
+    text-align: center;
+    font-size: xx-large;
+}
