@@ -3,3 +3,6 @@ Este es mi 1er repositorio en GIT.
 Este es el primer cambio que estoy haciendo al archivo.
 
 Este es el segundo cambio x)
+
+Este cambio lo quitaré de staging|| cambio quitado de staging usando "git rm HEAD git1.txt y ahora 
+implementado otro para finalmente hacer commit"
